@@ -1,1 +1,2 @@
-# juego este es un proyecto de practica en git
+# juego 
+este proyecto es una practica en GIT
